@@ -2,7 +2,7 @@
 
 <b>Tableau Visualizations Created</b><br>
 - <a href="https://public.tableau.com/app/profile/johnsethchong/viz/3YearInventoryAnalysis_16684557818720/StockPerformance">Three Year Inventory Analysis</a> <br>
-- <a href="https://public.tableau.com/app/profile/johnsethchong/viz/Sales3YearAnalysis_16690829722760/GeneralPerformance">Sales Three Year Analysis</a>
+- <a href="https://public.tableau.com/app/profile/johnsethchong/viz/Sales3YearAnalysis_16690829722760/GeneralPerformance">Three Year Sales Analysis</a>
 
 Course Summary:
 
